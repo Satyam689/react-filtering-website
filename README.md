@@ -1,8 +1,27 @@
-# React + Vite
+# React-Filtering-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This README provides instructions for cloning the repository and running the application.
 
-Currently, two official plugins are available:
+## Clone the Repository
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To get started with this project, follow these steps to clone the repository and set it up on your local machine:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/Satyam689/react-filtering-website.git
+    cd react-filtering-website
+    ```
+
+2. Install the necessary dependencies:
+
+    ```bash
+    npm install
+    ```
+
+## Running the Application
+
+Once you've successfully cloned the repository and installed the dependencies, you can run the application using the following command:
+
+```bash
+npm run dev
